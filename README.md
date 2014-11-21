@@ -14,7 +14,6 @@ The files you will find in this folder are:
 1. run_analysis.R: the R code which will process the data.
 2. tidyData.txt: the resulting file after tidy operations.
 3. README.md: you are looking at it.
-4. CodeBook.md:
 
 ##Instructions
 
